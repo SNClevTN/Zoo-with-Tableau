@@ -1,0 +1,101 @@
+Animal_name,Class_Number,Class_Type
+pit viper,3,Reptile
+seasnake,3,Reptile
+ slow worm,3,Reptile
+ tortoise,3,Reptile
+ tuatara,3,Reptile
+bass,4,Fish
+ carp,4,Fish
+ catfish,4,Fish
+ chub,4,Fish
+ dogfish,4,Fish
+ haddock,4,Fish
+ herring,4,Fish
+ pike,4,Fish
+ piranha,4,Fish
+ seahorse,4,Fish
+ sole,4,Fish
+ stingray,4,Fish
+ tuna,4,Fish
+frog,5,Amphibian
+frog,5,Amphibian
+ newt,5,Amphibian
+ toad,5,Amphibian
+flea,6,Bug
+ gnat,6,Bug
+ honeybee,6,Bug
+ housefly,6,Bug
+ ladybird,6,Bug
+ moth,6,Bug
+ termite,6,Bug
+ wasp,6,Bug
+clam,7,Invertebrate
+ crab,7,Invertebrate
+ crayfish,7,Invertebrate
+ lobster,7,Invertebrate
+ octopus,7,Invertebrate
+ scorpion,7,Invertebrate
+ seawasp,7,Invertebrate
+ slug,7,Invertebrate
+ starfish,7,Invertebrate
+ worm,7,Invertebrate
+chicken,2,Bird
+ crow,2,Bird
+ dove,2,Bird
+ duck,2,Bird
+ flamingo,2,Bird
+ gull,2,Bird
+ hawk,2,Bird
+ kiwi,2,Bird
+ lark,2,Bird
+ ostrich,2,Bird
+ parakeet,2,Bird
+ penguin,2,Bird
+ pheasant,2,Bird
+ rhea,2,Bird
+ skimmer,2,Bird
+ skua,2,Bird
+ sparrow,2,Bird
+ swan,2,Bird
+ vulture,2,Bird
+ wren,2,Bird
+aardvark,1,Mammal
+ antelope,1,Mammal
+ bear,1,Mammal
+ boar,1,Mammal
+ buffalo,1,Mammal
+ calf,1,Mammal
+ cavy,1,Mammal
+ cheetah,1,Mammal
+ deer,1,Mammal
+ dolphin,1,Mammal
+ elephant,1,Mammal
+ fruitbat,1,Mammal
+ giraffe,1,Mammal
+ goat,1,Mammal
+ gorilla,1,Mammal
+ hamster,1,Mammal
+ hare,1,Mammal
+ leopard,1,Mammal
+ lion,1,Mammal
+ lynx,1,Mammal
+ mink,1,Mammal
+ mole,1,Mammal
+ mongoose,1,Mammal
+ opossum,1,Mammal
+ oryx,1,Mammal
+ platypus,1,Mammal
+ polecat,1,Mammal
+ pony,1,Mammal
+ porpoise,1,Mammal
+ puma,1,Mammal
+ pussycat,1,Mammal
+ raccoon,1,Mammal
+ reindeer,1,Mammal
+ seal,1,Mammal
+ sealion,1,Mammal
+ squirrel,1,Mammal
+ vampire,1,Mammal
+ vole,1,Mammal
+ wallaby,1,Mammal
+ wolf,1,Mammal
